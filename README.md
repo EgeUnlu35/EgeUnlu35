@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Frontend%20Developer&fontSize=70" width="100%"/>
 </div>
 
 ### <div align="center">👋 Hi there, I'm Ege</div>
