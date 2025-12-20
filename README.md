@@ -20,19 +20,24 @@
 - 🔭 I’m currently working as a **Frontend Developer at FuEnergy**, building scalable websites, dashboards, and mobile apps.
 - 🎨 I specialize in **UI/UX Design**, creating intuitive interfaces for complex data.
 - 🌱 I’m currently working on a project **Aithor**.
+
 ---
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
+  </div>
+<div align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
+</div>
+  <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
 ---
 
 ### 📈 GitHub Stats
