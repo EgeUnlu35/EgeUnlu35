@@ -22,6 +22,17 @@
 - 🌱 I’m currently working on a project **Aithor**.
 
 ---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgeUnlu35&theme=tokyonight&hide_border=true" alt="streak graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeUnlu35&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+
+---
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -39,18 +50,6 @@
 </div>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgeUnlu35&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgeUnlu35&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeUnlu35&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
 
 
 <!--
