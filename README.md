@@ -36,14 +36,17 @@
 ---
 
 ### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgeUnlu35&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EgeUnlu35&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeUnlu35&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgeUnlu35&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+
 
 <!--
 **EgeUnlu35/EgeUnlu35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
