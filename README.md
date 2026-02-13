@@ -27,7 +27,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgeUnlu35&theme=nord&hide_border=true&background=00000000" alt="Commit Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeUnlu35&layout=compact&theme=nord&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
 
