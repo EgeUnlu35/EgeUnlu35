@@ -28,37 +28,9 @@
 
 ### 🚀 Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://aiolos.app/">
-        <img src="https://img.shields.io/badge/Aiolos-0A192F?style=for-the-badge&logo=wind&logoColor=white" alt="Aiolos"/>
-      </a>
-      <br/>
-      <sub><b>Aiolos</b></sub>
-      <br/>
-      <sub>Wind turbine control dashboard for monitoring and managing turbine performance in real time.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://iytekariyer.com/">
-        <img src="https://img.shields.io/badge/IYTE%20Kariyer-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white" alt="IYTE Kariyer"/>
-      </a>
-      <br/>
-      <sub><b>IYTE Kariyer</b></sub>
-      <br/>
-      <sub>Career platform connecting IYTE students with job opportunities, internships, and industry events.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://gitarena.vercel.app/">
-        <img src="https://img.shields.io/badge/GitArena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitArena"/>
-      </a>
-      <br/>
-      <sub><b>GitArena</b></sub>
-      <br/>
-      <sub>Fight with commits. Compare GitHub stats. Climb the leaderboard.</sub>
-    </td>
-  </tr>
-</table>
+- 🌬️ **[Aiolos](https://aiolos.app/)** — Wind turbine control dashboard for monitoring and managing turbine performance in real time.
+- 🎓 **[IYTE Kariyer](https://iytekariyer.com/)** — Career platform connecting IYTE students with job opportunities, internships, and industry events.
+- ⚔️ **[GitArena](https://gitarena.vercel.app/)** — Fight with commits. Compare GitHub stats. Climb the leaderboard.
 
 ---
 
