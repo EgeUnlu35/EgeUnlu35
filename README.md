@@ -5,6 +5,9 @@
 ### <div align="center">👋 Hi there, I'm Ege</div>
 
 <div align="center">
+  <a href="https://egeunlu.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/ege-ünlü-255894263/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -20,6 +23,42 @@
 - 🔭 I’m currently working as a **Frontend Developer at FuEnergy**, building scalable websites, dashboards, and mobile apps.
 - 🎨 I specialize in **UI/UX Design**, creating intuitive interfaces for complex data.
 - 🌱 I’m currently working on a project **Aithor**.
+
+---
+
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://aiolos.app/">
+        <img src="https://img.shields.io/badge/Aiolos-0A192F?style=for-the-badge&logo=wind&logoColor=white" alt="Aiolos"/>
+      </a>
+      <br/>
+      <sub><b>Aiolos</b></sub>
+      <br/>
+      <sub>Wind turbine control dashboard for monitoring and managing turbine performance in real time.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://iytekariyer.com/">
+        <img src="https://img.shields.io/badge/IYTE%20Kariyer-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white" alt="IYTE Kariyer"/>
+      </a>
+      <br/>
+      <sub><b>IYTE Kariyer</b></sub>
+      <br/>
+      <sub>Career platform connecting IYTE students with job opportunities, internships, and industry events.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://gitarena.vercel.app/">
+        <img src="https://img.shields.io/badge/GitArena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitArena"/>
+      </a>
+      <br/>
+      <sub><b>GitArena</b></sub>
+      <br/>
+      <sub>Fight with commits. Compare GitHub stats. Climb the leaderboard.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
