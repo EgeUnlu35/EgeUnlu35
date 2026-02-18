@@ -43,6 +43,7 @@
                   alt="GitHub Contributions Graph"
                   className="w-full"
                 />
+  [![GitArena Stats](https://gitarena.dev/api/badge/EgeUnlu35)](https://gitarena.dev)
 </div>
 
 
