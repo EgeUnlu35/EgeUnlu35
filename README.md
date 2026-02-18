@@ -37,13 +37,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgeUnlu35&theme=nord&hide_border=true&background=00000000" alt="Commit Streak" />
+  <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EgeUnlu35" alt="GitArena Stats" width="540" height="210" /></a>
   <img
                   src="https://github-readme-activity-graph.vercel.app/graph?username=EgeUnlu35&theme=nord&hide_border=true&bg_color=00000000"
                   alt="GitHub Contributions Graph"
                   className="w-full"
                 />
-  <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EgeUnlu35" alt="GitArena Stats" width="460" height="120" /></a>
 </div>
 
 
