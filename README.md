@@ -43,7 +43,7 @@
                   alt="GitHub Contributions Graph"
                   className="w-full"
                 />
-  <a href="https://gitarena.dev"><img src="https://gitarena.dev/api/badge/EgeUnlu35" alt="GitArena Stats" width="460" height="120" /></a>
+  <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EgeUnlu35" alt="GitArena Stats" width="460" height="120" /></a>
 </div>
 
 
