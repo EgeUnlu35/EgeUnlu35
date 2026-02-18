@@ -43,7 +43,7 @@
                   alt="GitHub Contributions Graph"
                   className="w-full"
                 />
-  [![GitArena Stats](https://gitarena.dev/api/badge/EgeUnlu35)](https://gitarena.dev)
+  <a href="https://gitarena.dev"><img src="https://gitarena.dev/api/badge/EgeUnlu35" alt="GitArena Stats" width="460" height="120" /></a>
 </div>
 
 
