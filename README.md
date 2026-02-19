@@ -22,7 +22,6 @@
 - 🎓 I’m a Senior Computer Engineering student at **İzmir Institute of Technology (IZTECH)**.
 - 🔭 I’m currently working as a **Frontend Developer at FuEnergy**, building scalable websites, dashboards, and mobile apps.
 - 🎨 I specialize in **UI/UX Design**, creating intuitive interfaces for complex data.
-- 🌱 I’m currently working on a project **Aithor**.
 
 ---
 
