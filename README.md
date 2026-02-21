@@ -4,8 +4,6 @@
   </a>
 </div>
 
-### <div align="center">👋 Hi there, I'm Ege</div>
-
 <div align="center">
   <a href="https://egeunlu.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"/>
