@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Frontend%20Developer&fontSize=70" width="100%"/>
+  <a href="https://egeunlu.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Frontend%20Developer&fontSize=70" width="100%"/>
+  </a>
 </div>
 
 ### <div align="center">👋 Hi there, I'm Ege</div>
