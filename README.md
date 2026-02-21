@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://egeunlu.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Frontend%20Developer&fontSize=70" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a1628,30:0d2137,50:0f3460,70:1a5276,85:2196F3,100:00BFFF&height=280&section=header&text=Ege%20Ünlü&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20Mobile%20Specialist%20%E2%80%A2%20Creator%20of%20Fitquro&descSize=17&descAlignY=55&descAlign=50" width="100%" />
   </a>
 </div>
 
