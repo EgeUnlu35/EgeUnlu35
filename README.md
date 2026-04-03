@@ -1,7 +1,6 @@
 <div align="center">
-</div>
-
   <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EgeUnlu35" alt="GitArena Stats" width="540" height="210" /></a>
+</div>
 <div align="center">
   <a href="https://egeunlu.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"/>
