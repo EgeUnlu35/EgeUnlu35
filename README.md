@@ -1,9 +1,7 @@
 <div align="center">
-  <a href="https://egeunlu.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a1628,30:0d2137,50:0f3460,70:1a5276,85:2196F3,100:00BFFF&height=280&section=header&text=Ege%20Ünlü&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer&descSize=17&descAlignY=55&descAlign=50" width="100%" />
-  </a>
 </div>
 
+  <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EgeUnlu35" alt="GitArena Stats" width="540" height="210" /></a>
 <div align="center">
   <a href="https://egeunlu.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"/>
@@ -36,7 +34,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EgeUnlu35" alt="GitArena Stats" width="540" height="210" /></a>
   <img
                   src="https://github-readme-activity-graph.vercel.app/graph?username=EgeUnlu35&theme=nord&hide_border=true&bg_color=00000000"
                   alt="GitHub Contributions Graph"
