@@ -35,11 +35,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img
-                  src="https://github-readme-activity-graph.vercel.app/graph?username=EgeUnlu35&theme=nord&hide_border=true&bg_color=00000000"
-                  alt="GitHub Contributions Graph"
-                  className="w-full"
-                />
+  <a href="https://gitarena.dev/u/EgeUnlu35">
+  <img src="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=light&color=purple" alt="GitArena Contributions" width="540" height="175" />
+</a>
 </div>
 
 
