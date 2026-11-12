@@ -2,14 +2,12 @@
   <a href="https://gitarena.dev/u/EgeUnlu35">
   <img src="https://gitarena.dev/api/badge/EgeUnlu35?timeframe=total&theme=light&color=purple" alt="GitArena Stats" width="540" height="210" />
 </a>
-<div>
   <a href="https://gitarena.dev/u/EgeUnlu35">
   <img src="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=light&color=purple" alt="GitArena Contributions" width="540" height="175" />
 </a>
 <a href="https://gitarena.dev/u/EgeUnlu35">
   <img src="https://gitarena.dev/api/badge/EgeUnlu35/streak?theme=light&color=purple" alt="GitArena Streak" width="400" height="175" />
 </a>
-</div>
 </div>
 <div align="center">
   <a href="https://egeunlu.vercel.app/">
