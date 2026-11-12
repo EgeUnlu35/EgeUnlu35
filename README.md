@@ -2,6 +2,12 @@
   <a href="https://gitarena.dev">
   <img src="https://gitarena.dev/api/badge/EgeUnlu35?timeframe=total&theme=light&color=blue" alt="GitArena Stats" width="540" height="210" />
 </a>
+  <a href="https://gitarena.dev/u/EgeUnlu35">
+  <img src="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=light&color=purple" alt="GitArena Contributions" width="540" height="175" />
+</a>
+  <a href="https://gitarena.dev/u/EgeUnlu35">
+  <img src="https://gitarena.dev/api/badge/EgeUnlu35/streak?theme=light&color=purple" alt="GitArena Streak" width="540" height="175" />
+</a>
 </div>
 <div align="center">
   <a href="https://egeunlu.vercel.app/">
@@ -29,20 +35,6 @@
 - 🌬️ **[Aiolos](https://aiolos.app/)** — Wind turbine control dashboard for monitoring and managing turbine performance in real time.
 - 🎓 **[IYTE Kariyer](https://iytekariyer.com/)** — Career platform connecting IYTE students with job opportunities, internships, and industry events.
 - ⚔️ **[GitArena](https://gitarena.vercel.app/)** — Fight with commits. Compare GitHub stats. Climb the leaderboard.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://gitarena.dev/u/EgeUnlu35">
-  <img src="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=light&color=purple" alt="GitArena Contributions" width="540" height="175" />
-</a>
-  <a href="https://gitarena.dev/u/EgeUnlu35">
-  <img src="https://gitarena.dev/api/badge/EgeUnlu35/streak?theme=light&color=purple" alt="GitArena Streak" width="540" height="175" />
-</a>
-</div>
-
 
 ---
 ### 🛠️ Tech Stack
