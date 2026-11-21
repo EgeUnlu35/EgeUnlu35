@@ -1,13 +1,23 @@
 <div align="center">
+  <!-- Each badge follows the viewer's GitHub theme: dark badge in dark mode, light badge otherwise -->
   <a href="https://gitarena.dev/u/EgeUnlu35">
-  <img src="https://gitarena.dev/api/badge/EgeUnlu35?timeframe=total&theme=dark&color=blue" alt="GitArena Stats" width="540" height="210" />
-</a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitarena.dev/api/badge/EgeUnlu35?timeframe=total&theme=dark&color=blue" />
+      <img src="https://gitarena.dev/api/badge/EgeUnlu35?timeframe=total&theme=light&color=blue" alt="GitArena Stats" width="540" height="210" />
+    </picture>
+  </a>
   <a href="https://gitarena.dev/u/EgeUnlu35">
-  <img src="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=dark&color=blue" alt="GitArena Contributions" width="540" height="175" />
-</a>
-<a href="https://gitarena.dev/u/EgeUnlu35">
-  <img src="https://gitarena.dev/api/badge/EgeUnlu35/streak?theme=dark&color=blue" alt="GitArena Streak" width="540" height="175" />
-</a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=dark&color=blue" />
+      <img src="https://gitarena.dev/api/badge/EgeUnlu35/graph?theme=light&color=blue" alt="GitArena Contributions" width="540" height="175" />
+    </picture>
+  </a>
+  <a href="https://gitarena.dev/u/EgeUnlu35">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitarena.dev/api/badge/EgeUnlu35/streak?theme=dark&color=blue" />
+      <img src="https://gitarena.dev/api/badge/EgeUnlu35/streak?theme=light&color=blue" alt="GitArena Streak" width="540" height="175" />
+    </picture>
+  </a>
 </div>
 <div align="center">
   <a href="https://egeunlu.dev/">
