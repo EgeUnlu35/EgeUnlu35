@@ -38,7 +38,6 @@
 - 💼 **[UniKariyerim](https://unikariyerim.com/)** — Job, internship, and event listings for university students across Turkey. Employers post for free.
 - ⚔️ **[GitArena](https://gitarena.dev/)** — Fight with commits. Compare GitHub stats. Climb the leaderboard.
 - 🎓 **[IYTE Kariyer](https://iytekariyer.com/)** — Career platform connecting IYTE students with job opportunities, internships, and industry events.
-- 🌬️ **[Aiolos](https://aiolos.app/)** — Wind turbine control dashboard for monitoring and managing turbine performance in real time.
 
 ---
 ### 🛠️ Tech Stack
