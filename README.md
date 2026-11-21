@@ -26,17 +26,19 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m a Senior Computer Engineering student at **İzmir Institute of Technology (IZTECH)**.
-- 🔭 I’m currently working as a **Frontend Developer at FuEnergy**, building scalable websites, dashboards, and mobile apps.
+- 🎓 I graduated in Computer Engineering from **İzmir Institute of Technology (IZTECH)** in 2026.
+- 🚀 I’m a **Founder & Software Developer**, building scalable websites, dashboards, and mobile apps.
 - 🎨 I specialize in **UI/UX Design**, creating intuitive interfaces for complex data.
 
 ---
 
 ### 🚀 Projects
 
-- 🌬️ **[Aiolos](https://aiolos.app/)** — Wind turbine control dashboard for monitoring and managing turbine performance in real time.
+- 🧠 **[PetekMind](https://petekmind.com/)** — Private AI that runs on your own computer and works from your phone and laptop. No cloud, no tracking.
+- 💼 **[UniKariyerim](https://unikariyerim.com/)** — Job, internship, and event listings for university students across Turkey. Employers post for free.
+- ⚔️ **[GitArena](https://gitarena.dev/)** — Fight with commits. Compare GitHub stats. Climb the leaderboard.
 - 🎓 **[IYTE Kariyer](https://iytekariyer.com/)** — Career platform connecting IYTE students with job opportunities, internships, and industry events.
-- ⚔️ **[GitArena](https://gitarena.vercel.app/)** — Fight with commits. Compare GitHub stats. Climb the leaderboard.
+- 🌬️ **[Aiolos](https://aiolos.app/)** — Wind turbine control dashboard for monitoring and managing turbine performance in real time.
 
 ---
 ### 🛠️ Tech Stack
